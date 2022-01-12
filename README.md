@@ -1,5 +1,5 @@
 # RandomSearchStrategies
-- The current theory predicts that animals uses random search strategies to move through unfavorable and extremely variablable enviromental conditions. But the study only focus on omnivores. Utilizing R and animal movement databases, we determined that the current random search stragerties remains as the best model to depict movements along herbivores, carnivores, and omnivores. 
+- Recent research has shown that animals move through unfavorable and extremely variablable enviromental conditions using random search strategies, specifically the one simulated by  composite correlated random walk (CCRW) model. Utilizing R and eight animal datasets from MoveBank, we explored the effectiveness of CCRW and Levy walk on three different dietary preference: herbivores, carnivores, and omnivores. We determined that the CCRW remains as the better model to depict movements when compared to Levy walk, regardless of diet.
 
 ![alt text](https://github.com/chithihuynh/RandomSearchStrategies/blob/main/RandomSearchProj/presentationSnips/Slide4.PNG?raw=true)
 ![alt text](https://github.com/chithihuynh/RandomSearchStrategies/blob/main/RandomSearchProj/presentationSnips/Slide11.PNG?raw=true)
